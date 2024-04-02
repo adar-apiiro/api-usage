@@ -1,4 +1,4 @@
-package com.mkyong.resource;
+package Jersey;
 
 import com.mkyong.service.MessageService;
 import jakarta.inject.Inject;

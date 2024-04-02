@@ -1,4 +1,4 @@
-package org.glassfish.jersey.examples.bookmark.resource;
+package Jersey;
 
 import java.util.Date;
 
