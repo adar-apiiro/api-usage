@@ -2,7 +2,7 @@ import org.restlet.resource.Delete;
 import org.restlet.resource.Get;
 import org.restlet.resource.ServerResource;
 
-public class RestletResource extends ServerResource {
+public class RestletResource extends ServerResource { 
 
     @Get
     public String hello() {
